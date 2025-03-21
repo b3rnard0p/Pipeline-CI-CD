@@ -27,5 +27,3 @@
 **Entrega Contínua de Valor**: As equipes podem entregar novas funcionalidades e correções com maior frequência e segurança, atendendo às demandas do negócio de forma ágil.
 
 **Escalabilidade**: Permite que grandes equipes de desenvolvimento integrem código frequentemente sem comprometer a estabilidade do sistema.
-
-s
